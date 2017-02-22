@@ -1,0 +1,25 @@
+libSYS/src/wav_file.lo: libSYS/src/wav_file.cpp libSYS/include/wav_file.h \
+ libSYS/include/genericStds.h libSYS/include/machine_type.h \
+ /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h libSYS/include/genericStds.h
+
+libSYS/include/wav_file.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/machine_type.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+libSYS/include/genericStds.h:
